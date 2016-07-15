@@ -1,0 +1,904 @@
+
+شنبه، 25 شهریور 1391 21:48:46 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+
+شنبه، 25 شهریور 1391 23:54:40 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	شنبه، 25 شهریور 1391 23:54:40 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+SEVERE	شنبه، 25 شهریور 1391 23:56:29 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+شنبه، 25 شهریور 1391 23:57:53 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	شنبه، 25 شهریور 1391 23:57:53 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+SEVERE	شنبه، 25 شهریور 1391 23:59:08 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+یک‌شنبه، 26 شهریور 1391 00:00:55 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 26 شهریور 1391 00:00:55 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+یک‌شنبه، 26 شهریور 1391 00:02:14 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 26 شهریور 1391 00:02:14 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: null
+یک‌شنبه، 26 شهریور 1391 01:06:25 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 26 شهریور 1391 01:06:25 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Connections could not be acquired from the underlying database!
+SEVERE	یک‌شنبه، 26 شهریور 1391 01:06:25 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Connections could not be acquired from the underlying database!
+SEVERE	یک‌شنبه، 26 شهریور 1391 01:07:03 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Connections could not be acquired from the underlying database!
+SEVERE	یک‌شنبه، 26 شهریور 1391 01:07:42 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Connections could not be acquired from the underlying database!
+سه‌شنبه، 28 شهریور 1391 20:59:34 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 20:59:34 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 21:04:22 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 21:04:22 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 21:35:33 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 21:35:33 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 21:53:17 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 21:53:17 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 21:57:47 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 21:57:47 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 22:08:48 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 22:08:48 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 22:12:45 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 22:12:45 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 22:16:37 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 22:16:37 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 22:20:30 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 22:20:29 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+سه‌شنبه، 28 شهریور 1391 23:57:43 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 28 شهریور 1391 23:57:43 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 01:52:16 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 01:52:16 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 01:54:54 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 01:54:54 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+SEVERE	پنج‌شنبه، 30 شهریور 1391 10:17:24 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Communications link failure
+
+The last packet successfully received from the server was 30,127,376 milliseconds ago.  The last packet sent successfully to the server was 50 milliseconds ago.
+SEVERE	پنج‌شنبه، 30 شهریور 1391 10:17:44 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Communications link failure
+
+The last packet successfully received from the server was 30,148,016 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 30 شهریور 1391 10:17:53 (IRDT)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Communications link failure
+
+The last packet successfully received from the server was 30,156,468 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+پنج‌شنبه، 30 شهریور 1391 10:18:30 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 10:18:30 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:34:25 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:34:24 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:37:17 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:37:17 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:40:00 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:40:00 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:51:52 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:51:52 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:53:15 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:53:14 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 18:56:27 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 18:56:27 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+پنج‌شنبه، 30 شهریور 1391 22:42:29 (IRDT)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 30 شهریور 1391 22:42:29 (IRDT)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 10:59:07 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 10:59:07 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 11:29:12 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 11:29:12 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 12:32:01 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 12:32:01 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 12:34:06 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 12:34:06 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:31:47 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:31:47 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:46:49 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:46:49 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:48:08 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:48:08 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:50:43 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:50:43 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:51:37 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:51:37 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 17:52:21 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 17:52:21 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 19:21:13 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 19:21:13 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+جمعه، 31 شهریور 1391 23:56:19 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	جمعه، 31 شهریور 1391 23:56:19 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+شنبه، 1 مهر 1391 08:53:13 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	شنبه، 1 مهر 1391 08:53:13 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+شنبه، 1 مهر 1391 20:01:03 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	شنبه، 1 مهر 1391 20:01:03 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Remote Server Started ...
+یک‌شنبه، 2 مهر 1391 17:59:54 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 17:59:54 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 18:08:38 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 18:08:38 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 18:37:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 18:37:41 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 18:42:12 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 2 مهر 1391 18:42:12 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Can not start Kianama Access Server: Connection refused to host: 192.168.1.4; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+یک‌شنبه، 2 مهر 1391 18:43:26 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 2 مهر 1391 18:43:26 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Can not start Kianama Access Server: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.lang.ClassNotFoundException: com.kianama3.server.remote.common.KianamaRemoteServerInterface
+یک‌شنبه، 2 مهر 1391 18:44:48 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 2 مهر 1391 18:44:48 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Can not start Kianama Access Server: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.lang.ClassNotFoundException: com.kianama3.server.remote.common.KianamaRemoteServerInterface
+یک‌شنبه، 2 مهر 1391 19:03:11 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+SEVERE	یک‌شنبه، 2 مهر 1391 19:03:11 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Can not start Kianama Access Server: Connection refused to host: 192.168.1.4; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+یک‌شنبه، 2 مهر 1391 19:03:21 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 19:03:21 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:00:55 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:00:55 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:02:26 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:02:26 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:03:17 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:03:17 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:06:11 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:06:11 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:26:58 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:26:58 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 21:28:31 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 21:28:31 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+یک‌شنبه، 2 مهر 1391 22:25:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 2 مهر 1391 22:25:41 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 3 مهر 1391 10:32:31 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 10:32:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 3 مهر 1391 20:32:56 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 20:32:56 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 3 مهر 1391 21:21:51 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 21:21:51 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 3 مهر 1391 21:24:15 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch User Access List from t_users_access : execute command denied to user 'remote_server'@'localhost' for routine 'db_kianama2.add_new_client'
+دوشنبه، 3 مهر 1391 21:26:41 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 21:26:41 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 3 مهر 1391 21:27:23 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch User Access List from t_users_access : Duplicate entry '0' for key 'PRIMARY'
+دوشنبه، 3 مهر 1391 22:24:23 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 22:24:23 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 3 مهر 1391 22:31:45 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 22:31:45 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 3 مهر 1391 23:24:39 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 3 مهر 1391 23:24:39 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 09:30:32 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 09:30:31 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 09:41:13 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 09:41:13 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 09:45:12 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 09:45:12 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 10:01:02 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 10:01:02 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 10:10:23 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 10:10:23 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 12:08:19 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 12:08:19 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 13:33:00 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 13:33:00 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 13:41:23 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 13:41:23 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	سه‌شنبه، 4 مهر 1391 13:41:31 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: Data truncation: Data too long for column 'p_command_date' at row 196
+سه‌شنبه، 4 مهر 1391 13:43:49 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 13:43:49 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	سه‌شنبه، 4 مهر 1391 13:43:57 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: Data truncation: Data too long for column 'p_command_date' at row 196
+سه‌شنبه، 4 مهر 1391 13:44:37 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 13:44:37 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 13:59:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 13:59:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 16:58:01 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 16:58:00 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	سه‌شنبه، 4 مهر 1391 17:04:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: Table 'db_kianama2.t_sessions' doesn't exist
+SEVERE	سه‌شنبه، 4 مهر 1391 17:05:50 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: Communications link failure
+
+The last packet successfully received from the server was 105,993 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	سه‌شنبه، 4 مهر 1391 17:06:25 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: PROCEDURE db_kianama2.insert_session_info does not exist
+SEVERE	سه‌شنبه، 4 مهر 1391 17:06:46 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session info: PROCEDURE db_kianama2.insert_session_info does not exist
+سه‌شنبه، 4 مهر 1391 17:09:15 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 17:09:15 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 4 مهر 1391 23:38:21 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 4 مهر 1391 23:38:21 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	چهارشنبه، 5 مهر 1391 00:37:10 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new user : Duplicate entry 'javad' for key 'PRIMARY'
+چهارشنبه، 5 مهر 1391 00:43:24 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 5 مهر 1391 00:43:24 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+چهارشنبه، 5 مهر 1391 00:49:30 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 5 مهر 1391 00:49:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+چهارشنبه، 5 مهر 1391 21:20:30 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 5 مهر 1391 21:20:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	چهارشنبه، 5 مهر 1391 21:20:49 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+پنج‌شنبه، 6 مهر 1391 08:06:26 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 08:06:26 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:07:05 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:07:50 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'HHSBGEFD123' for key 'serial_indx'
+پنج‌شنبه، 6 مهر 1391 08:09:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 08:09:42 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:10:16 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'HHSBGEFD123' for key 'serial_indx'
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:11:02 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'HHSBGEFD123' for key 'serial_indx'
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:11:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'HHSBGEFD123' for key 'serial_indx'
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:11:08 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'HHSBGEFD123' for key 'serial_indx'
+پنج‌شنبه، 6 مهر 1391 08:46:52 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 08:46:52 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 6 مهر 1391 08:48:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch Clients List : Unknown column 'disbale_date_time' in 'field list'
+پنج‌شنبه، 6 مهر 1391 08:49:18 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 08:49:17 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 6 مهر 1391 09:31:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 09:31:42 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 6 مهر 1391 12:11:19 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 12:11:19 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 6 مهر 1391 13:23:36 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 13:23:36 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 6 مهر 1391 13:24:02 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in editing client : Unknown column 'clien_name' in 'where clause'
+SEVERE	پنج‌شنبه، 6 مهر 1391 13:24:57 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in editing client : Illegal mix of collations (utf8_persian_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '='
+پنج‌شنبه، 6 مهر 1391 13:48:32 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 13:48:32 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 6 مهر 1391 14:54:24 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 6 مهر 1391 14:54:24 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 6 مهر 1391 15:07:49 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in editing client : Illegal mix of collations (utf8_persian_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '='
+یک‌شنبه، 9 مهر 1391 08:58:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 9 مهر 1391 08:58:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 10 مهر 1391 10:06:13 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: The last packet successfully received from the server was 90,425,082 milliseconds ago.  The last packet sent successfully to the server was 90,425,082 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+دوشنبه، 10 مهر 1391 10:07:10 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 10:07:10 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 10 مهر 1391 11:30:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in deleting client : Unknown column 'client_name' in 'where clause'
+SEVERE	دوشنبه، 10 مهر 1391 11:33:14 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in deleting client : PROCEDURE db_kianama2.delete_client does not exist
+دوشنبه، 10 مهر 1391 12:55:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 12:55:43 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 10 مهر 1391 13:00:47 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:00:54 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:01:28 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'KKLDIJJD23N' for key 'serial_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:01:38 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'KKLDIJJD23N' for key 'serial_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:06:32 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:06:51 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'KKLDIJJD23N' for key 'serial_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:07:42 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	دوشنبه، 10 مهر 1391 13:08:11 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new client : Duplicate entry 'client #1' for key 'name_indx'
+SEVERE	دوشنبه، 10 مهر 1391 16:59:43 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new user : Duplicate entry 'javad' for key 'PRIMARY'
+SEVERE	دوشنبه، 10 مهر 1391 17:05:05 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new user : Duplicate entry 'mahmoud' for key 'PRIMARY'
+دوشنبه، 10 مهر 1391 19:54:59 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 19:54:59 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 10 مهر 1391 19:55:58 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 19:55:58 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 10 مهر 1391 20:03:19 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 20:03:19 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 10 مهر 1391 20:09:16 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 20:09:15 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 10 مهر 1391 21:19:58 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 10 مهر 1391 21:19:58 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 11:15:53 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 11:15:53 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 12:36:48 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 12:36:48 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 13:25:46 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 13:25:46 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 14:33:28 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 14:33:28 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 14:57:08 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 14:57:08 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 20:58:08 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 20:58:08 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 21:22:14 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 21:22:14 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+سه‌شنبه، 11 مهر 1391 21:35:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 11 مهر 1391 21:35:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	چهارشنبه، 12 مهر 1391 08:37:05 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Communications link failure
+
+The last packet successfully received from the server was 39,672,749 milliseconds ago.  The last packet sent successfully to the server was 40 milliseconds ago.
+چهارشنبه، 12 مهر 1391 08:37:59 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 12 مهر 1391 08:37:58 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+چهارشنبه، 12 مهر 1391 08:45:07 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 12 مهر 1391 08:45:07 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+چهارشنبه، 12 مهر 1391 09:56:26 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	چهارشنبه، 12 مهر 1391 09:56:26 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 13 مهر 1391 13:39:52 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 13 مهر 1391 13:39:52 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+شنبه، 15 مهر 1391 14:35:50 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	شنبه، 15 مهر 1391 14:35:50 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	شنبه، 15 مهر 1391 14:41:21 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: DBMS-131 : Invalid user name or password.
+SEVERE	شنبه، 15 مهر 1391 14:42:06 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: DBMS-131 : Invalid user name or password.
+SEVERE	شنبه، 15 مهر 1391 14:42:09 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: DBMS-131 : Invalid user name or password.
+SEVERE	شنبه، 15 مهر 1391 23:13:56 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: Communications link failure
+
+The last packet successfully received from the server was 31,073,444 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	شنبه، 15 مهر 1391 23:13:59 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: DBMS-131 : Invalid user name or password.
+SEVERE	شنبه، 15 مهر 1391 23:16:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session log: Communications link failure
+
+The last packet successfully received from the server was 31,201,172 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+یک‌شنبه، 16 مهر 1391 15:51:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	یک‌شنبه، 16 مهر 1391 15:51:42 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 10:48:59 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 10:48:59 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 10:50:50 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 10:50:50 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 10:55:22 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: daminDBMS-131 : Invalid user name or password.
+دوشنبه، 17 مهر 1391 10:56:36 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 10:56:36 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 10:57:42 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: dminDBMS-131 : Invalid user name or password.
+دوشنبه، 17 مهر 1391 11:06:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 11:06:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 16:12:15 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 16:12:15 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 19:45:37 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 19:45:37 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 19:50:00 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 17 مهر 1391 19:50:47 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 17 مهر 1391 21:57:41 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 7,607,683 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+دوشنبه، 17 مهر 1391 22:24:30 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:24:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 22:25:06 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:25:06 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 22:30:11 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:30:10 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 22:36:06 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:36:06 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 22:37:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:37:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+دوشنبه، 17 مهر 1391 22:38:17 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:38:17 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 22:38:59 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 32,447 milliseconds ago.  The last packet sent successfully to the server was 10 milliseconds ago.
+دوشنبه، 17 مهر 1391 22:39:46 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:39:46 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 22:40:34 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 39,306 milliseconds ago.  The last packet sent successfully to the server was 10 milliseconds ago.
+SEVERE	دوشنبه، 17 مهر 1391 22:41:32 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 96,529 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+دوشنبه، 17 مهر 1391 22:42:30 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 22:42:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 22:43:12 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 23,323 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+دوشنبه، 17 مهر 1391 23:20:09 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 23:20:09 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	دوشنبه، 17 مهر 1391 23:20:46 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 26,789 milliseconds ago.  The last packet sent successfully to the server was 10 milliseconds ago.
+دوشنبه، 17 مهر 1391 23:22:17 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 17 مهر 1391 23:22:16 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 20 مهر 1391 16:25:36 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:25:36 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:26:55 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 69,089 milliseconds ago.  The last packet sent successfully to the server was 10 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:26:59 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 72,995 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:27:48 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 121,665 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:27:50 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 124,388 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:27:53 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 127,504 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:28:40 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session log: Communications link failure
+
+The last packet successfully received from the server was 174,391 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+پنج‌شنبه، 20 مهر 1391 16:29:48 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:29:48 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:30:07 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 10,635 milliseconds ago.  The last packet sent successfully to the server was 20 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:30:10 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 13,479 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+پنج‌شنبه، 20 مهر 1391 16:31:56 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:31:56 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 20 مهر 1391 16:42:31 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:42:30 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:43:01 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 22,232 milliseconds ago.  The last packet sent successfully to the server was 20 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:43:04 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 25,086 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:43:06 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 27,550 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:43:08 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : Communications link failure
+
+The last packet successfully received from the server was 29,863 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:43:24 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session log: Communications link failure
+
+The last packet successfully received from the server was 46,076 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+پنج‌شنبه، 20 مهر 1391 16:48:14 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:48:14 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 20 مهر 1391 16:52:02 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:52:02 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+پنج‌شنبه، 20 مهر 1391 16:53:59 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:53:59 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 16:54:08 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch database sessions List : 
+پنج‌شنبه، 20 مهر 1391 16:59:21 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 16:59:21 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 17:00:20 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in inserting session log: Communications link failure
+
+The last packet successfully received from the server was 51,624 milliseconds ago.  The last packet sent successfully to the server was 20 milliseconds ago.
+پنج‌شنبه، 20 مهر 1391 17:02:50 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 17:02:50 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 17:03:18 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminCommunications link failure
+
+The last packet successfully received from the server was 19,548 milliseconds ago.  The last packet sent successfully to the server was 10 milliseconds ago.
+پنج‌شنبه، 20 مهر 1391 17:06:12 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 17:06:12 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 17:21:45 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+پنج‌شنبه، 20 مهر 1391 17:23:44 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 20 مهر 1391 17:23:44 (IRST)		com.kianama3.server.remote.KianamaRemoteServer	Access Server Started ...
+SEVERE	پنج‌شنبه، 20 مهر 1391 17:23:54 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 14:54:12 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 14:54:11 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 14:54:31 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 15:04:41 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 15:09:54 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 15:09:54 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 15:13:04 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 15:13:04 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 15:30:48 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 15:30:48 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 16:04:27 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch database sessions List : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select * FROM t_authorized_hosts' at line 1
+دوشنبه، 24 مهر 1391 16:09:46 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:09:46 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 16:09:57 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch hosts List : Column 'FSD5623GHSHD82J' not found.
+SEVERE	دوشنبه، 24 مهر 1391 16:10:56 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch hosts List : Column 'FSD5623GHSHD82J' not found.
+دوشنبه، 24 مهر 1391 16:12:28 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:12:28 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 16:12:45 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: DBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 16:18:42 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 16:21:05 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:21:05 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 16:21:17 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch hosts List : Column 'host_sreial' not found.
+دوشنبه، 24 مهر 1391 16:22:00 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:22:00 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+INFO	دوشنبه، 24 مهر 1391 16:22:11 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	FSD5623GHSHD82J
+دوشنبه، 24 مهر 1391 16:27:13 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:27:13 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 16:30:59 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:30:59 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 16:32:18 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:32:18 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 16:48:38 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 16:48:38 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 16:51:47 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 16:51:56 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 17:15:50 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:15:50 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 17:16:52 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new host : 7485JHDNCBC
+Duplicate entry '7485JHDNCBC' for key 'PRIMARY'
+دوشنبه، 24 مهر 1391 17:19:54 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:19:54 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 17:26:06 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:26:06 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 17:31:18 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:31:18 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 17:33:23 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:33:23 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+INFO	دوشنبه، 24 مهر 1391 17:33:35 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	0
+دوشنبه، 24 مهر 1391 17:34:40 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:34:40 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+INFO	دوشنبه، 24 مهر 1391 17:34:51 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	0
+دوشنبه، 24 مهر 1391 17:36:47 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 17:36:47 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+INFO	دوشنبه، 24 مهر 1391 17:36:58 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	0
+SEVERE	دوشنبه، 24 مهر 1391 17:36:58 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch hosts List : Column 'host_serial' not found.
+دوشنبه، 24 مهر 1391 18:35:54 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 18:35:54 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 18:36:07 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to fetch hosts List : Column 'user_name' not found.
+دوشنبه، 24 مهر 1391 18:37:11 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 18:37:11 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 18:37:49 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 18:37:49 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 18:44:26 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 18:44:26 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 19:01:16 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 19:01:16 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 19:42:27 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 19:42:27 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 19:57:01 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 19:56:57 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 20:06:25 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 20:06:25 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 20:26:29 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 20:28:53 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Unable to get user privileges : An attempt by a client to checkout a Connection has timed out.
+دوشنبه، 24 مهر 1391 20:34:14 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 20:34:14 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 20:36:40 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 20:36:57 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 20:37:02 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 20:45:15 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 20:45:15 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 20:47:35 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in changing password: DBMS-125 : Invalid password for user: admin
+SEVERE	دوشنبه، 24 مهر 1391 20:48:24 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 21:31:18 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 21:35:23 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 21:35:23 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 21:43:08 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 21:43:08 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+دوشنبه، 24 مهر 1391 22:16:27 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 22:16:27 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 22:16:36 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:16:47 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:16:52 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:17:14 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:17:59 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in changing password: DBMS-126 : This password is already used.
+SEVERE	دوشنبه، 24 مهر 1391 22:22:37 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+دوشنبه، 24 مهر 1391 22:23:16 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	دوشنبه، 24 مهر 1391 22:23:16 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	دوشنبه، 24 مهر 1391 22:23:21 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:23:32 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:23:38 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:23:42 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:23:45 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	دوشنبه، 24 مهر 1391 22:35:41 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+SEVERE	سه‌شنبه، 25 مهر 1391 10:14:38 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminDBMS-131 : Invalid user name or password.
+سه‌شنبه، 25 مهر 1391 10:15:56 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 10:15:56 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	سه‌شنبه، 25 مهر 1391 10:21:27 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in editing user : Unknown collation: 'utf_general_ci'
+SEVERE	سه‌شنبه، 25 مهر 1391 10:26:13 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: adminAn attempt by a client to checkout a Connection has timed out.
+سه‌شنبه، 25 مهر 1391 10:32:50 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 10:32:50 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+سه‌شنبه، 25 مهر 1391 10:51:10 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 10:51:10 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+سه‌شنبه، 25 مهر 1391 11:06:16 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 11:06:16 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	سه‌شنبه، 25 مهر 1391 11:06:25 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+SEVERE	سه‌شنبه، 25 مهر 1391 11:06:30 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+SEVERE	سه‌شنبه، 25 مهر 1391 11:06:38 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in checkUserPassword: amdinDBMS-131 : Invalid user name or password.
+سه‌شنبه، 25 مهر 1391 14:22:45 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 14:22:45 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+سه‌شنبه، 25 مهر 1391 14:32:16 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 14:32:16 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+سه‌شنبه، 25 مهر 1391 14:37:46 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 14:37:46 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+SEVERE	سه‌شنبه، 25 مهر 1391 14:38:14 (IRST)		com.kianama3.server.remote.database.RemoteServerDataAccess	Database error in adding new user : Duplicate entry 'mohammad' for key 'PRIMARY'
+سه‌شنبه، 25 مهر 1391 14:47:35 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 14:47:34 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+سه‌شنبه، 25 مهر 1391 22:40:42 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	سه‌شنبه، 25 مهر 1391 22:40:42 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...
+پنج‌شنبه، 27 مهر 1391 12:15:52 (IRST)
+Level	Date			Name					Log Massage
+------------------------------------------------------------------------------------------------
+INFO	پنج‌شنبه، 27 مهر 1391 12:15:52 (IRST)		com.kianama3.server.remote.KianamaRemoteServerImpl	Access Server Started ...

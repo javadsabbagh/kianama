@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/mysql-connector-java-5.1.20/mysql-connector-java-5.1.20-bin.jar" sourcepath="C:/Documents and Settings/programmer/Desktop/kianama-workspace/mysql-connector-java-5.1.20/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/mysql-connector-java-5.1.20/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/hyperic-sigar-1.6.4/sigar-bin/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/hyperic-sigar-1.6.4/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/PersianCalendar_2_1/lib/icu4j_3_2_calendar.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/jcalendar-1.4/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/PersianCalendar_2_1/lib/persiancalendar.jar" sourcepath="C:/Documents and Settings/programmer/Desktop/kianama-workspace/PersianCalendar_2_1/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/PersianCalendar_2_1/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/c3p0-0.9.2-pre4/lib/c3p0-0.9.2-pre4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/c3p0-0.9.2-pre4/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/programmer/Desktop/kianama-workspace/c3p0-0.9.2-pre4/lib/mchange-commons-java-0.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/programmer/Desktop/kianama-workspace/c3p0-0.9.2-pre4/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/KianamaCommon"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,310 @@
+package com.kianama3.console.calendar;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.text.MessageFormat;
+import java.util.*;
+import javax.swing.*;
+import javax.swing.border.*;
+
+import com.ghasemkiani.util.icu.PersianCalendar;
+import com.ibm.icu.util.TimeZone;
+import com.ibm.icu.util.ULocale;
+import com.ibm.icu.util.Calendar;
+import com.ibm.icu.util.GregorianCalendar;
+import com.ibm.icu.text.DateFormat;
+import com.ibm.icu.text.SimpleDateFormat;
+
+public class PersianDateChooser extends JDialog implements ItemListener,
+		MouseListener, FocusListener, KeyListener, ActionListener {
+
+	private static final long serialVersionUID = 1L;
+	private static final String[] MONTHS = new String[] { "فروردین",
+			"اردیبهشت", "خرداد", "تیر", "مرداد", "شهریور", "مهر", "آبان",
+			"آذر", "دی", "بهمن", "اسفند" };
+	private static final String[] DAYS = new String[] { "شنبه", "یکشنبه",
+			"دوشنبه", "سه شنبه", "چهارشنبه", "پنجشنبه", "جمعه" };
+
+	private static final Color WEEK_DAYS_FOREGROUND = Color.black;
+	private static final Color DAYS_FOREGROUND = Color.blue;
+	private static final Color SELECTED_DAY_FOREGROUND = Color.white;
+	private static final Color SELECTED_DAY_BACKGROUND = Color.blue;
+	private static final Border EMPTY_BORDER = BorderFactory.createEmptyBorder(
+			1, 1, 1, 1);
+
+	private static final Border FOCUSED_BORDER = BorderFactory
+			.createLineBorder(Color.yellow, 1);
+	private static final int FIRST_YEAR = 1300;
+	private static final int LAST_YEAR = 1450;
+	private PersianCalendar calendar;
+
+	private JLabel[][] days;
+
+	private FocusablePanel daysGrid;
+	private JComboBox month;
+	private JComboBox year;
+	private JButton ok;
+	private JButton cancel;
+
+	private int offset;
+	private int lastDay;
+	private JLabel day;
+
+	private boolean okClicked;
+	
+	private static class FocusablePanel extends JPanel {
+
+		private static final long serialVersionUID = 1L;
+
+		public FocusablePanel(LayoutManager layout) {
+			super(layout);
+		}
+
+		public boolean isFocusTraversable() {
+			return true;
+		}
+	}
+
+	private void construct() {
+		TimeZone timeZone = TimeZone.getTimeZone("Asia/Tehran");
+		ULocale uLocale = ULocale.createCanonical("fa");
+		calendar = new PersianCalendar(timeZone, uLocale);
+		try {
+			if (calendar.get(Calendar.MONTH) <= 6)
+				calendar.add(Calendar.HOUR, Integer.parseInt("-1"));
+		} catch (Exception e) {
+		}
+
+		month = new JComboBox(MONTHS);
+		month.addItemListener(this);
+		year = new JComboBox();
+		for (int i = FIRST_YEAR; i <= LAST_YEAR; i++)
+			year.addItem(Integer.toString(i));
+		year.addItemListener(this);
+		days = new JLabel[7][7];
+		for (int i = 0; i < 7; i++) {
+			days[0][i] = new JLabel(DAYS[i], JLabel.CENTER);
+			days[0][i].setForeground(WEEK_DAYS_FOREGROUND);
+		}
+		for (int i = 1; i < 7; i++)
+			for (int j = 0; j < 7; j++) {
+				days[i][j] = new JLabel(" ", JLabel.CENTER);
+				days[i][j].setForeground(DAYS_FOREGROUND);
+				days[i][j].setBackground(SELECTED_DAY_BACKGROUND);
+				days[i][j].setBorder(EMPTY_BORDER);
+				days[i][j].addMouseListener(this);
+				// days[i][j].setFont(new Font("Tahoma",Font.PLAIN,14));
+				// days[i][j].setBorder(new EmptyBorder(0, 2, 0, 2));
+			}
+		ok = new JButton("Ok");
+		ok.addActionListener(this);
+		cancel = new JButton("Cancel");
+		cancel.addActionListener(this);
+		JPanel monthYear = new JPanel();
+		monthYear.add(month);
+		monthYear.add(year);
+		daysGrid = new FocusablePanel(new GridLayout(7, 7, 5, 0));
+		daysGrid.addFocusListener(this);
+		daysGrid.addKeyListener(this);
+		for (int i = 0; i < 7; i++)
+			for (int j = 0; j < 7; j++)
+				daysGrid.add(days[i][j]);
+		daysGrid.setBackground(Color.white);
+		daysGrid.setBorder(BorderFactory.createLoweredBevelBorder());
+		JPanel daysPanel = new JPanel();
+		daysPanel.add(daysGrid);
+		JPanel buttons = new JPanel();
+		buttons.add(ok);
+		buttons.add(cancel);
+		Container dialog = getContentPane();
+		dialog.add("North", monthYear);
+		dialog.add("Center", daysPanel);
+		dialog.add("South", buttons);
+		pack();
+		setResizable(false);
+	}
+
+	private int getSelectedDay() {
+		if (day == null)
+			return -1;
+		try {
+			return Integer.parseInt(day.getText());
+		} catch (NumberFormatException e) {
+		}
+		return -1;
+	}
+
+	private void setSelected(JLabel newDay) {
+		if (day != null) {
+			day.setForeground(DAYS_FOREGROUND);
+			day.setOpaque(false);
+			day.setBorder(EMPTY_BORDER);
+		}
+		day = newDay;
+		day.setForeground(SELECTED_DAY_FOREGROUND);
+		day.setOpaque(true);
+		if (daysGrid.hasFocus())
+			day.setBorder(FOCUSED_BORDER);
+	}
+
+	private void setSelected(int newDay) {
+		setSelected(days[(newDay + offset - 1) / 7 + 1][(newDay + offset - 1) % 7]);
+	}
+
+	private void update() {
+		int iday = getSelectedDay();
+		for (int i = 0; i < 7; i++) {
+			days[1][i].setText(" ");
+			days[5][i].setText(" ");
+			days[6][i].setText(" ");
+		}
+		calendar.set(Calendar.DATE, 1);
+		calendar.set(Calendar.MONTH, month.getSelectedIndex()
+				+ Calendar.JANUARY);
+		calendar.set(Calendar.YEAR, year.getSelectedIndex() + FIRST_YEAR);
+		offset = calendar.get(Calendar.DAY_OF_WEEK) + 1 - Calendar.SUNDAY; // for
+																			// Persian
+																			// we
+																			// shift
+																			// days
+																			// of
+																			// week
+																			// 1
+																			// days
+																			// forward
+		lastDay = calendar.getActualMaximum(Calendar.DATE);
+		for (int i = 0; i < lastDay; i++)
+			days[(i + offset) / 7 + 1][(i + offset) % 7].setText(String
+					.valueOf(i + 1));
+		if (iday != -1) {
+			if (iday > lastDay)
+				iday = lastDay;
+			setSelected(iday);
+		}
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource() == ok)
+			okClicked = true;
+		setVisible(false);
+	}
+
+	public void focusGained(FocusEvent e) {
+		setSelected(day);
+	}
+
+	public void focusLost(FocusEvent e) {
+		setSelected(day);
+	}
+
+	public void itemStateChanged(ItemEvent e) {
+		update();
+	}
+
+	public void keyPressed(KeyEvent e) {
+		int iday = getSelectedDay();
+		switch (e.getKeyCode()) {
+		case KeyEvent.VK_LEFT:
+			if (iday > 1)
+				setSelected(iday - 1);
+			break;
+		case KeyEvent.VK_RIGHT:
+			if (iday < lastDay)
+				setSelected(iday + 1);
+			break;
+		case KeyEvent.VK_UP:
+			if (iday > 7)
+				setSelected(iday - 7);
+			break;
+		case KeyEvent.VK_DOWN:
+			if (iday <= lastDay - 7)
+				setSelected(iday + 7);
+			break;
+		}
+	}
+
+	public void mouseClicked(MouseEvent e) {
+		JLabel day = (JLabel) e.getSource();
+		if (!day.getText().equals(" "))
+			setSelected(day);
+		daysGrid.requestFocus();
+	}
+
+	public void keyReleased(KeyEvent e) {
+	}
+
+	public void keyTyped(KeyEvent e) {
+	}
+
+	public void mouseEntered(MouseEvent e) {
+	}
+
+	public void mouseExited(MouseEvent e) {
+	}
+
+	public void mousePressed(MouseEvent e) {
+	}
+
+	public void mouseReleased(MouseEvent e) {
+	}
+
+	public PersianDateChooser(Dialog owner, String title) {
+		super(owner, title, true);
+		construct();
+	}
+
+	/**
+	 * @wbp.parser.constructor
+	 */
+	public PersianDateChooser(Dialog owner) {
+		super(owner, true);
+		construct();
+	}
+
+	public PersianDateChooser(Frame owner, String title) {
+		super(owner, title, true);
+		construct();
+	}
+
+	public PersianDateChooser(Frame owner) {
+		super(owner, true);
+		construct();
+	}
+
+	public String select(Date date) {
+		calendar.setTime(date);
+		int _day = calendar.get(Calendar.DATE);
+		int _month = calendar.get(Calendar.MONTH);
+		int _year = calendar.get(Calendar.YEAR);
+		year.setSelectedIndex(_year - FIRST_YEAR);
+		month.setSelectedIndex(_month - Calendar.JANUARY);
+		setSelected(_day);
+		okClicked = false;
+		setVisible(true);
+
+		if (!okClicked)
+			return null;
+
+		
+/*		calendar.set(Calendar.DATE, getSelectedDay());
+		calendar.set(Calendar.MONTH, month.getSelectedIndex()+ Calendar.JANUARY);
+		calendar.set(Calendar.YEAR, year.getSelectedIndex() + FIRST_YEAR);
+		return calendar.getTime();*/
+		
+/*		return MessageFormat.format("{0}/{1}/{2}",year.getSelectedIndex() + FIRST_YEAR,
+				month.getSelectedIndex()+ Calendar.JANUARY,
+				getSelectedDay());*/
+		
+		return String.valueOf(year.getSelectedIndex() + FIRST_YEAR)+"/"+
+				format(month.getSelectedIndex()+1)+"/"+
+				format(getSelectedDay());
+	}
+
+	String format(int n){
+		return (n < 10 ? "0"+String.valueOf(n) : String.valueOf(n));
+	}
+	
+	public String select() {
+		return select(new Date());
+	}
+}
